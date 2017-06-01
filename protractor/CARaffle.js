@@ -7,6 +7,6 @@ exports.config = {
     element(by.linkText('About')).click();
     element(by.linkText('Home')).click();
     element(by.css('[name="Name"]')).sendKeys('Selenium Test User');
-    element(by.buttonText('Enter Raffle')).click();
+    element(by.buttonText('Submit')).click();
   }
 }
