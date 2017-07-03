@@ -1,7 +1,7 @@
-describe('CA Raffle UI Test', function() {
+describe('CDBU Modern Software Factory UI Test - xxx Environment', function() {
   it('should add a todo', function() {
     browser.ignoreSynchronization = true;
-    browser.get('http://Pre-Production.8bjja9kb5t.us-east-2.elasticbeanstalk.com/index.php');
+    browser.get('http://swat-preprod.cdbu.io');
     element(by.css('[name="Name"]')).sendKeys('Selenium Test User');
     element(by.buttonText('Submit')).click();
     });

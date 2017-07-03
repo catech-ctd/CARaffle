@@ -1,4 +1,4 @@
-describe('CA Raffle UI Test', function(){
-  it('Run tests Against CA Raffle site', function(){
-  });
+describe('CDBU Modern Software Factory UI Test - Environment', function(){
+  it('Run tests Against CDBU Raffle site (Raffle)', function(){
+  }); 
 });
