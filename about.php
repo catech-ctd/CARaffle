@@ -11,7 +11,7 @@
 		<?php include('includes/header.php') ?>
 
 		<div class="content pure-u-1 pure-u-md-3-4">
-			<h1 class="brand-title">Game Rules</h1> 
+			<h1 class="brand-title">The Game Rules</h1> 
 			
 			<div style="padding-top:20px;">
 			<b>Rules of the Game.</b>
